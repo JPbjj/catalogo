@@ -1,0 +1,16 @@
+.social{
+     display: flex;
+     align-items: center;
+     height: auto;
+     font-family: Verdana,
+     Geneva,
+     Tahoma,
+     sans-serif;
+}
+
+.instagram,
+.whatsapp{
+     color:#aaa;
+     padding: 1px;
+     font-size: 20px;
+}

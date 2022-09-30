@@ -1,0 +1,8 @@
+.img_container{
+     width: 300px;
+     height: 200px;
+     overflow: hidden;
+     margin-top: 15px;
+     border: 1px solid #fff;
+     border-radius: 0.25rem;
+}

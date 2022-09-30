@@ -1,0 +1,12 @@
+.banner_descricao{
+     width: 200px;
+     font-family: 'Bungee Spice',
+     cursive;
+     margin-top: 5px;
+     position: absolute;
+     transform: translate(35%,200%);
+}
+
+.menosletras{
+     transform: translate(calc(15% - 1rem), 200%);
+}

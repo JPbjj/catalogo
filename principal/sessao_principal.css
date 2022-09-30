@@ -1,0 +1,8 @@
+.sessao_principal{
+     width: 1200px;
+     height: auto;
+     border: 3px solid #e6e6e6;
+     display: flex;
+     justify-content: center;
+     padding: 1rem;
+}

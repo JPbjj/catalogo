@@ -1,0 +1,7 @@
+.container_texto{
+     display: flex
+}
+
+.container_texto h1{
+     padding: 10px;
+}

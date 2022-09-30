@@ -1,0 +1,9 @@
+.descricao{
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bolder;
+     font-size: 15px;
+}
+.descricao p{
+     margin-top: 5px;
+}

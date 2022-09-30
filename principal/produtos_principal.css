@@ -1,0 +1,9 @@
+.produtos_principal{
+     width: 1200px;
+     height: auto;
+     display: flex;
+     justify-content: space-around;
+     flex-wrap: wrap;
+     background: rgb(255, 255, 255);
+     background: linear-gradient(141deg, rgba(255, 255, 255, 1) 30%, rgba(186, 186, 186, 1) 90%);
+}
