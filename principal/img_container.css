@@ -1,6 +1,8 @@
 .img_container{
-     width: 300px;
-     height: 200px;
+     max-width: 300px;
+     max-height: 200px;
+     width: auto;
+     height: auto;
      overflow: hidden;
      margin-top: 15px;
      border: 1px solid #fff;
